@@ -1,0 +1,15 @@
+{
+  "name": "dblgit",
+  "version": "1.0.0",
+  "description": "A better git pairing tool",
+  "repository": "https://github.com/ehrenmurdick/dblgit-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehren Murdick",
+  "license": "ISC",
+  "bin": {
+    "dblgit": "./index.js"
+  }
+}
